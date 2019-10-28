@@ -10,7 +10,7 @@ $('#suma').click(function(){
 			data:datos
 		}).done(function(respuesta){
 			console.log(respuesta);
-			$('#resultado').val(respuesta);
+			$('#resultado').text(" = "+respuesta);
 		});
 	});
 
@@ -27,7 +27,7 @@ $('#suma').click(function(){
 			data:datos
 		}).done(function(respuesta){
 			console.log(respuesta);
-			$('#resultado').val(respuesta);
+			$('#resultado').text(" = "+respuesta);
 		});
 	});
 
@@ -43,7 +43,7 @@ $('#suma').click(function(){
 			data:datos
 		}).done(function(respuesta){
 			console.log(respuesta);
-			$('#resultado').val(respuesta);
+			$('#resultado').text(" = "+respuesta);
 		});
 	});
 
@@ -61,7 +61,7 @@ $('#suma').click(function(){
 			data:datos
 		}).done(function(respuesta){
 			console.log(respuesta);
-			$('#resultado').val(respuesta);
+			$('#resultado').text(" = "+respuesta);
 		});
 	});
 
