@@ -1,0 +1,31 @@
+.entrada{margin: auto;
+		margin-top: auto;
+
+		 }
+
+label{color: white;
+	  font-family: arial;
+	  font-size: 20px;
+	  }
+
+input{
+	width: 100px;
+}
+
+ .container{background-color: #585757;
+ 			border-radius: 15px;
+ 			height: auto;
+ 			padding: 20px;
+ 			text-align: center;}
+
+.but{height: 100px;
+	background-color: orange;
+	border-radius: 25px;
+    margin:auto;
+	text-align: center;}
+
+.row{margin-bottom:15px; 
+	 margin-top:15px;}
+
+.tbut{font-size: 70px;
+	  color: white;}
